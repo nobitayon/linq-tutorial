@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\bin\Debug\TCPExtension.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\bin\Debug\TCPExtension.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\obj\Debug\TCPExtension.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\obj\Debug\TCPExtension.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\obj\Debug\TCPExtension.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\TCPExtension\obj\Debug\TCPExtension.pdb

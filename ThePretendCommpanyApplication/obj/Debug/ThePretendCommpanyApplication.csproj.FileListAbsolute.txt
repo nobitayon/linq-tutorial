@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\ThePretendCommpanyApplication.exe.config
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\ThePretendCommpanyApplication.exe
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\ThePretendCommpanyApplication.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\TCPData.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\TCPExtension.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\TCPData.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\bin\Debug\TCPExtension.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\obj\Debug\ThePretendCommpanyApplication.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\obj\Debug\ThePretendCommpanyApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\obj\Debug\ThePrete.779B20ED.Up2Date
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\obj\Debug\ThePretendCommpanyApplication.exe
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\ThePretendCommpanyApplication\obj\Debug\ThePretendCommpanyApplication.pdb
