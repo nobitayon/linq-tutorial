@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.exe
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.deps.json
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.runtimeconfig.json
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\bin\Debug\net8.0\LINQExamples_1.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.AssemblyInfo.cs
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.sourcelink.json
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\refint\LINQExamples_1.dll
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.pdb
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\LINQExamples_1.genruntimeconfig.cache
+C:\Users\asus\source\repos\ThePretendCommpanyApplication\LINQExamples_1\obj\Debug\net8.0\ref\LINQExamples_1.dll
